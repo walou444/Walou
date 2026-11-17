@@ -21,7 +21,7 @@
 
 ## / about
 
-<table>
+<table width="100%">
   <tr>
     <td width="58%" valign="top">
       <p><strong>I make technology feel considered.</strong></p>
@@ -29,11 +29,11 @@
       <p><sub>Based in Rennes, France · available for thoughtful digital work</sub></p>
     </td>
     <td width="42%" valign="top">
-      <p><strong><code>const walou = &#123;</code></strong><br>
-      <code>&nbsp;&nbsp;studio: "Kloups",<br>
-      &nbsp;&nbsp;focus: ["software", "design", "infra"],<br>
-      &nbsp;&nbsp;mode: "build with intent",<br>
-      &#125;;</code></p>
+      <pre><code>const walou = {
+  studio: "Kloups",
+  focus: ["software", "design", "infra"],
+  mode: "build with intent",
+};</code></pre>
     </td>
   </tr>
 </table>
@@ -41,32 +41,24 @@
 ## / selected work
 
 <p align="center">
-  <a href="https://github.com/Kloups-Dev/console-launcher">
-    <img src="assets/project-console-launcher.svg" alt="Console Launcher — Rust and Qt/QML desktop software" width="48%">
-  </a>
-  <a href="https://kc.kloups.fr">
-    <img src="assets/project-knowledge-core.svg" alt="Knowledge Core — knowledge management and RAG" width="48%">
-  </a>
+  <a href="https://github.com/Kloups-Dev/console-launcher"><img src="assets/project-console-launcher.svg" alt="Console Launcher — Rust and Qt/QML desktop software" width="48%"></a>
+  <a href="https://kc.kloups.fr"><img src="assets/project-knowledge-core.svg" alt="Knowledge Core — knowledge management and RAG" width="48%"></a>
   <br>
-  <a href="https://geo.kloups.fr">
-    <img src="assets/project-globeosint.svg" alt="GlobeOSINT — geospatial exploration and OSINT" width="48%">
-  </a>
-  <a href="https://kloups.fr">
-    <img src="assets/project-kloups-studio.svg" alt="Kloups Studio — web design and development" width="48%">
-  </a>
+  <a href="https://geo.kloups.fr"><img src="assets/project-globeosint.svg" alt="GlobeOSINT — geospatial exploration and OSINT" width="48%"></a>
+  <a href="https://kloups.fr"><img src="assets/project-kloups-studio.svg" alt="Kloups Studio — web design and development" width="48%"></a>
 </p>
 
 ## / technology ecosystem
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <p><strong>Languages</strong><br><sub>Systems, interfaces and data work</sub></p>
       <p><img src="https://skillicons.dev/icons?i=rust,ts,js,python,html,css&amp;theme=dark" alt="Rust, TypeScript, JavaScript, Python, HTML and CSS icons"></p>
     </td>
     <td width="50%" valign="top">
-      <p><strong>Web development</strong><br><sub>Product surfaces and interactive experiences</sub></p>
-      <p><img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&amp;theme=dark" alt="Next.js, React, Node.js and Tailwind CSS icons"></p>
+      <p><strong>Infrastructure &amp; DevOps</strong><br><sub>Repeatable, observable and self-hosted systems</sub></p>
+      <p><img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx,vercel&amp;theme=dark" alt="Linux, Docker, Git, GitHub, Nginx and Vercel icons"></p>
     </td>
   </tr>
   <tr>
@@ -75,8 +67,8 @@
       <p><img src="https://skillicons.dev/icons?i=qt&amp;theme=dark" alt="Qt icon"><br><sub>Qt · QML · Rust</sub></p>
     </td>
     <td width="50%" valign="top">
-      <p><strong>Infrastructure &amp; DevOps</strong><br><sub>Repeatable, observable and self-hosted systems</sub></p>
-      <p><img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx,vercel&amp;theme=dark" alt="Linux, Docker, Git, GitHub, Nginx and Vercel icons"></p>
+      <p><strong>Web development</strong><br><sub>Product surfaces and interactive experiences</sub></p>
+      <p><img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&amp;theme=dark" alt="Next.js, React, Node.js and Tailwind CSS icons"></p>
     </td>
   </tr>
   <tr>
@@ -90,24 +82,16 @@
 ## / github, in motion
 
 <div align="center">
-  <a href="https://github.com/walou444">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=walou444&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0b1020&amp;title_color=8ec5ff&amp;icon_color=a78bfa&amp;text_color=cbd5e1&amp;ring_color=8ec5ff&amp;rank_icon=github" alt="GitHub statistics for walou444">
-  </a>
-  <a href="https://github.com/walou444">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=walou444&amp;layout=compact&amp;hide_border=true&amp;bg_color=0b1020&amp;title_color=8ec5ff&amp;text_color=cbd5e1" alt="Most-used languages for walou444">
-  </a>
+  <a href="https://github.com/walou444"><img height="165" src="https://github-stats-extended.vercel.app/api?username=walou444&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0b1020&amp;title_color=8ec5ff&amp;icon_color=a78bfa&amp;text_color=cbd5e1&amp;ring_color=8ec5ff&amp;rank_icon=github" alt="GitHub statistics for walou444"></a>
+  <a href="https://github.com/walou444"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=walou444&amp;layout=compact&amp;hide_border=true&amp;bg_color=0b1020&amp;title_color=8ec5ff&amp;text_color=cbd5e1" alt="Most-used languages for walou444"></a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/walou444">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=walou444&bg_color=0b1020&color=cbd5e1&line=5cc8ff&point=a78bfa&area_color=312e81&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph for walou444" width="95%">
-  </a>
+  <a href="https://github.com/walou444"><img src="https://github-readme-activity-graph.vercel.app/graph?username=walou444&amp;bg_color=0b1020&amp;color=cbd5e1&amp;line=5cc8ff&amp;point=a78bfa&amp;area_color=312e81&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20activity" alt="Contribution activity graph for walou444" width="95%"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/walou444">
-    <img src="https://streak-stats.demolab.com?user=walou444&theme=transparent&hide_border=true&background=0B1020&ring=8EC5FF&fire=A78BFA&currStreakLabel=8EC5FF&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak for walou444">
-  </a>
+  <a href="https://github.com/walou444"><img src="https://streak-stats.demolab.com?user=walou444&amp;theme=transparent&amp;hide_border=true&amp;background=0B1020&amp;ring=8EC5FF&amp;fire=A78BFA&amp;currStreakLabel=8EC5FF&amp;sideLabels=CBD5E1&amp;dates=94A3B8" alt="GitHub contribution streak for walou444"></a>
 </p>
 
 <p align="center">
@@ -116,12 +100,7 @@
 
 ## / connect
 
-<div align="center">
-
-**[kloups.fr](https://kloups.fr)** &nbsp;·&nbsp; **[github.com/walou444](https://github.com/walou444)**
-
-<br>
-
-<sub>Made with intention from Rennes, France · Kloups Studio</sub>
-
-</div>
+<p align="center">
+  <strong><a href="https://kloups.fr">kloups.fr</a></strong>&nbsp;·&nbsp;<strong><a href="https://github.com/walou444">github.com/walou444</a></strong><br>
+  <sub>Made with intention from Rennes, France · Kloups Studio</sub>
+</p>
