@@ -5,6 +5,7 @@ This repository is the profile repository for [@walou444](https://github.com/wal
 ## Before updating
 
 - Keep the public identity as **Kloups / Kloups Studio**.
+- Keep the public location at country level: **France**. Do not add a city.
 - Verify every external URL before adding it; do not infer project URLs.
 - Keep image `alt` text meaningful and prefer relative paths for repository assets.
 - Check the README in both GitHub light and dark themes.
@@ -15,6 +16,7 @@ The banner is a standalone SVG at [`assets/banner.svg`](assets/banner.svg), so i
 ## Visual system
 
 - Keep the midnight, electric-blue, violet and cyan palette consistent across the banner and project cards.
+- Keep section headings concise and pair them with a single meaningful emoji; do not restore the slash-prefixed heading style.
 - Project cards live in `assets/project-*.svg`; keep each card at the shared `760 × 240` viewBox and preserve its meaningful `title`/`desc` metadata.
 - Link each card through Markdown in `README.md`, with descriptive alt text and the verified destination URL.
 - SVG animations must remain decorative, lightweight and readable when motion is reduced or unavailable. Do not add embedded JavaScript, external font dependencies or CSS files.
