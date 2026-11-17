@@ -48,36 +48,42 @@
   <a href="https://kloups.fr"><img src="assets/project-kloups-studio.svg" alt="Kloups Studio — web design and development" width="48%"></a>
 </p>
 
-## 🧰 Technology ecosystem
+## 🧰 Languages &amp; tools
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>⌨️ Languages</strong><br><sub>Systems, interfaces and data work</sub></p>
-      <p><img src="https://skillicons.dev/icons?i=rust,ts,js,python,html,css&amp;theme=dark" alt="Rust, TypeScript, JavaScript, Python, HTML and CSS icons"></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>☁️ Infrastructure &amp; DevOps</strong><br><sub>Repeatable, observable and self-hosted systems</sub></p>
-      <p><img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx,vercel&amp;theme=dark" alt="Linux, Docker, Git, GitHub, Nginx and Vercel icons"></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>🖥️ Desktop applications</strong><br><sub>Focused tools with native-feeling interaction</sub></p>
-      <p><img src="https://skillicons.dev/icons?i=qt&amp;theme=dark" alt="Qt icon"><br><sub>Qt · QML · Rust</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>🌐 Web development</strong><br><sub>Product surfaces and interactive experiences</sub></p>
-      <p><img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&amp;theme=dark" alt="Next.js, React, Node.js and Tailwind CSS icons"></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <p><strong>🎨 Creative tools</strong><br><sub>Interface design · motion · audiovisual production · creative coding</sub></p>
-      <p><code>INTERFACE DESIGN</code>&nbsp;&nbsp; <code>MOTION</code>&nbsp;&nbsp; <code>AUDIOVISUAL</code>&nbsp;&nbsp; <code>CREATIVE CODING</code></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong>🧩 Tools I build with</strong><br>
+  <sub>From native software and web interfaces to dependable self-hosted systems</sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,html,css,qt,nextjs,react,nodejs,tailwind,linux,docker,git,github,nginx,vercel&amp;perline=9&amp;theme=dark" alt="Rust, TypeScript, JavaScript, Python, HTML, CSS, Qt, Next.js, React, Node.js, Tailwind CSS, Linux, Docker, Git, GitHub, Nginx and Vercel icons">
+</p>
+
+<p align="center">
+  <strong>💻 Tech stack</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RUST-0B1020?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust badge">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-312E81?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript badge">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-A78BFA?style=for-the-badge&amp;logo=javascript&amp;logoColor=0B1020" alt="JavaScript badge">
+  <img src="https://img.shields.io/badge/PYTHON-0891B2?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python badge"><br>
+  <img src="https://img.shields.io/badge/QT%20%2F%20QML-334155?style=for-the-badge&amp;logo=qt&amp;logoColor=white" alt="Qt and QML badge">
+  <img src="https://img.shields.io/badge/REACT-0B1020?style=for-the-badge&amp;logo=react&amp;logoColor=5CC8FF" alt="React badge">
+  <img src="https://img.shields.io/badge/NEXT.JS-312E81?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js badge">
+  <img src="https://img.shields.io/badge/NODE.JS-0891B2?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js badge">
+  <img src="https://img.shields.io/badge/TAILWIND%20CSS-A78BFA?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=0B1020" alt="Tailwind CSS badge"><br>
+  <img src="https://img.shields.io/badge/LINUX-0B1020?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Linux badge">
+  <img src="https://img.shields.io/badge/DOCKER-312E81?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker badge">
+  <img src="https://img.shields.io/badge/NGINX-0891B2?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx badge">
+  <img src="https://img.shields.io/badge/GIT-A78BFA?style=for-the-badge&amp;logo=git&amp;logoColor=0B1020" alt="Git badge">
+  <img src="https://img.shields.io/badge/GITHUB-334155?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub badge">
+  <img src="https://img.shields.io/badge/VERCEL-0B1020?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel badge"><br>
+  <img src="https://img.shields.io/badge/INTERFACE%20DESIGN-312E81?style=for-the-badge" alt="Interface design badge">
+  <img src="https://img.shields.io/badge/MOTION-A78BFA?style=for-the-badge&amp;logoColor=0B1020" alt="Motion badge">
+  <img src="https://img.shields.io/badge/AUDIOVISUAL-0891B2?style=for-the-badge" alt="Audiovisual badge">
+  <img src="https://img.shields.io/badge/CREATIVE%20CODING-334155?style=for-the-badge" alt="Creative coding badge">
+</p>
 
 ## 📈 GitHub in motion
 
