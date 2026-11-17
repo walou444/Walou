@@ -82,8 +82,7 @@
 ## / github, in motion
 
 <div align="center">
-  <a href="https://github.com/walou444"><img height="165" src="https://github-stats-extended.vercel.app/api?username=walou444&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0b1020&amp;title_color=8ec5ff&amp;icon_color=a78bfa&amp;text_color=cbd5e1&amp;ring_color=8ec5ff&amp;rank_icon=github" alt="GitHub statistics for walou444"></a>
-  <a href="https://github.com/walou444"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=walou444&amp;layout=compact&amp;hide_border=true&amp;bg_color=0b1020&amp;title_color=8ec5ff&amp;text_color=cbd5e1" alt="Most-used languages for walou444"></a>
+  <a href="https://github.com/walou444"><img height="170" src="https://github-stats-extended.vercel.app/api?username=walou444&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0b1020&amp;title_color=8ec5ff&amp;icon_color=a78bfa&amp;text_color=cbd5e1&amp;ring_color=8ec5ff&amp;rank_icon=github" alt="GitHub statistics for walou444"></a>
 </div>
 
 <p align="center">
