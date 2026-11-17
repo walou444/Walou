@@ -12,10 +12,10 @@
   <g transform="translate(48 55)">
     <rect width="46" height="46" rx="12" fill="#2dd4bf" fill-opacity=".12" stroke="#5eead4" stroke-opacity=".58"/>
     <circle cx="23" cy="22" r="11" fill="none" stroke="#b8fff4" stroke-width="2"/><path d="M23 11c4 4 6 8 6 12 0 4-2 8-6 12-4-4-6-8-6-12 0-4 2-8 6-12Z" fill="none" stroke="#b8fff4" stroke-width="1.5"/><circle cx="27" cy="21" r="3" fill="#b8fff4"/>
-    <text x="66" y="24" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">GlobeOSINT</text>
-    <text x="66" y="52" fill="#99f6e4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2">GEOSPATIAL EXPLORATION</text>
+    <text x="66" y="25" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="700">GlobeOSINT</text>
+    <text x="66" y="54" fill="#99f6e4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">GEOSPATIAL EXPLORATION</text>
   </g>
-  <text x="48" y="153" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Tools for discovering and understanding open-source information.</text>
-  <text x="48" y="190" fill="#99f6e4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1">MAPS  ·  DATA  ·  OSINT</text>
+  <text x="48" y="158" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Tools for discovering and understanding open-source information.</text>
+  <text x="48" y="198" fill="#99f6e4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="1">MAPS  ·  DATA  ·  OSINT</text>
   <path d="M670 184h34" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/><path d="m697 177 7 7-7 7" fill="none" stroke="#b8fff4" stroke-width="2"/>
 </svg>

@@ -29,17 +29,14 @@
       <p><sub>Based in Rennes, France · available for thoughtful digital work</sub></p>
     </td>
     <td width="42%" valign="top">
-      <pre><code>const walou = {
-  studio: "Kloups",
-  focus: ["software", "design", "infra"],
-  mode: "build with intent",
-};</code></pre>
-
+      <p><strong><code>const walou = &#123;</code></strong><br>
+      <code>&nbsp;&nbsp;studio: "Kloups",<br>
+      &nbsp;&nbsp;focus: ["software", "design", "infra"],<br>
+      &nbsp;&nbsp;mode: "build with intent",<br>
+      &#125;;</code></p>
     </td>
   </tr>
 </table>
-
-<br>
 
 ## / selected work
 
@@ -59,54 +56,45 @@
   </a>
 </p>
 
-<br>
-
 ## / technology ecosystem
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Languages</strong><br>
-      <sub>Systems, interfaces and data work</sub><br><br>
-      <img src="https://skillicons.dev/icons?i=rust,ts,js,python,html,css&theme=dark" alt="Rust, TypeScript, JavaScript, Python, HTML and CSS icons">
+      <p><strong>Languages</strong><br><sub>Systems, interfaces and data work</sub></p>
+      <p><img src="https://skillicons.dev/icons?i=rust,ts,js,python,html,css&amp;theme=dark" alt="Rust, TypeScript, JavaScript, Python, HTML and CSS icons"></p>
     </td>
     <td width="50%" valign="top">
-      <strong>Web development</strong><br>
-      <sub>Product surfaces and interactive experiences</sub><br><br>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&theme=dark" alt="Next.js, React, Node.js and Tailwind CSS icons">
+      <p><strong>Web development</strong><br><sub>Product surfaces and interactive experiences</sub></p>
+      <p><img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&amp;theme=dark" alt="Next.js, React, Node.js and Tailwind CSS icons"></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Desktop applications</strong><br>
-      <sub>Focused tools with native-feeling interaction</sub><br><br>
-      <img src="https://skillicons.dev/icons?i=qt&theme=dark" alt="Qt icon">
-      <br><sub>Qt · QML · Rust</sub>
+      <p><strong>Desktop applications</strong><br><sub>Focused tools with native-feeling interaction</sub></p>
+      <p><img src="https://skillicons.dev/icons?i=qt&amp;theme=dark" alt="Qt icon"><br><sub>Qt · QML · Rust</sub></p>
     </td>
     <td width="50%" valign="top">
-      <strong>Infrastructure &amp; DevOps</strong><br>
-      <sub>Repeatable, observable and self-hosted systems</sub><br><br>
-      <img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx,vercel&theme=dark" alt="Linux, Docker, Git, GitHub, Nginx and Vercel icons">
+      <p><strong>Infrastructure &amp; DevOps</strong><br><sub>Repeatable, observable and self-hosted systems</sub></p>
+      <p><img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx,vercel&amp;theme=dark" alt="Linux, Docker, Git, GitHub, Nginx and Vercel icons"></p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <strong>Creative tools</strong><br>
-      <sub>Interface design · motion · audiovisual production · creative coding</sub>
+      <p><strong>Creative tools</strong><br><sub>Interface design · motion · audiovisual production · creative coding</sub></p>
+      <p><code>INTERFACE DESIGN</code>&nbsp;&nbsp; <code>MOTION</code>&nbsp;&nbsp; <code>AUDIOVISUAL</code>&nbsp;&nbsp; <code>CREATIVE CODING</code></p>
     </td>
   </tr>
 </table>
-
-<br>
 
 ## / github, in motion
 
 <div align="center">
   <a href="https://github.com/walou444">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=walou444&show_icons=true&hide_border=true&bg_color=0b1020&title_color=8ec5ff&icon_color=a78bfa&text_color=cbd5e1&ring_color=8ec5ff&rank_icon=github" alt="GitHub statistics for walou444">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=walou444&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0b1020&amp;title_color=8ec5ff&amp;icon_color=a78bfa&amp;text_color=cbd5e1&amp;ring_color=8ec5ff&amp;rank_icon=github" alt="GitHub statistics for walou444">
   </a>
   <a href="https://github.com/walou444">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walou444&layout=compact&hide_border=true&bg_color=0b1020&title_color=8ec5ff&text_color=cbd5e1" alt="Most-used languages for walou444">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=walou444&amp;layout=compact&amp;hide_border=true&amp;bg_color=0b1020&amp;title_color=8ec5ff&amp;text_color=cbd5e1" alt="Most-used languages for walou444">
   </a>
 </div>
 
@@ -126,15 +114,13 @@
   <sub>Analytics are optional views of public GitHub data. If a provider is unavailable, the linked profile remains the source of truth.</sub>
 </p>
 
-<br>
-
 ## / connect
 
 <div align="center">
 
 **[kloups.fr](https://kloups.fr)** &nbsp;·&nbsp; **[github.com/walou444](https://github.com/walou444)**
 
-<br><br>
+<br>
 
 <sub>Made with intention from Rennes, France · Kloups Studio</sub>
 
