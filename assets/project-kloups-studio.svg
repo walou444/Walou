@@ -12,10 +12,10 @@
   <g transform="translate(48 55)">
     <rect width="46" height="46" rx="12" fill="#f0abfc" fill-opacity=".12" stroke="#f0abfc" stroke-opacity=".58"/>
     <path d="M14 17h24M14 25h17M14 33h11" stroke="#ffe4f2" stroke-width="3" stroke-linecap="round"/>
-    <text x="66" y="24" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">Kloups Studio</text>
-    <text x="66" y="52" fill="#f5b5e9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2">WEB DESIGN &amp; DEVELOPMENT</text>
+    <text x="66" y="25" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="700">Kloups Studio</text>
+    <text x="66" y="54" fill="#f5b5e9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">WEB DESIGN &amp; DEVELOPMENT</text>
   </g>
-  <text x="48" y="153" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Digital experiences with a distinct visual identity.</text>
-  <text x="48" y="190" fill="#f5b5e9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1">INTERFACES  ·  WEB  ·  DIRECTION</text>
+  <text x="48" y="158" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Digital experiences with a distinct visual identity.</text>
+  <text x="48" y="198" fill="#f5b5e9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="1">INTERFACES  ·  WEB  ·  DIRECTION</text>
   <path d="M670 184h34" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/><path d="m697 177 7 7-7 7" fill="none" stroke="#ffe4f2" stroke-width="2"/>
 </svg>

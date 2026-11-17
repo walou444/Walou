@@ -21,6 +21,6 @@ The banner is a standalone SVG at [`assets/banner.svg`](assets/banner.svg), so i
 
 ## Analytics
 
-The README uses public, third-party image endpoints for optional GitHub statistics, language, activity and streak views. These services do not receive repository secrets and may be unavailable; never replace the linked profile with fabricated values. Keep `username=walou444` and preserve the fallback note when editing these URLs.
+The README uses public, third-party image endpoints for optional GitHub statistics, language, activity and streak views. Stats and language cards use the maintained GitHub Stats Extended service; these services do not receive repository secrets and may be unavailable. Never replace the linked profile with fabricated values. Keep `username=walou444` and preserve the fallback note when editing these URLs.
 
 Before publishing visual changes, validate SVGs as XML, check that every `assets/` reference exists, and inspect the README in both GitHub light and dark themes. No workflow or generated contribution asset is required for the current animated banner.
