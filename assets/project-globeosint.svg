@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 240" role="img" aria-labelledby="title desc">
+  <title id="title">GlobeOSINT</title>
+  <desc id="desc">GlobeOSINT, a geospatial exploration and open-source intelligence project.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06191f"/><stop offset="1" stop-color="#0c2434"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4adeca"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="25"/></filter>
+  </defs>
+  <rect width="760" height="240" rx="20" fill="url(#bg)"/>
+  <circle cx="675" cy="48" r="135" fill="#14b8a6" opacity=".14" filter="url(#blur)"/>
+  <path d="M0 204H760" stroke="#5eead4" stroke-opacity=".22"/>
+  <g transform="translate(48 55)">
+    <rect width="46" height="46" rx="12" fill="#2dd4bf" fill-opacity=".12" stroke="#5eead4" stroke-opacity=".58"/>
+    <circle cx="23" cy="22" r="11" fill="none" stroke="#b8fff4" stroke-width="2"/><path d="M23 11c4 4 6 8 6 12 0 4-2 8-6 12-4-4-6-8-6-12 0-4 2-8 6-12Z" fill="none" stroke="#b8fff4" stroke-width="1.5"/><circle cx="27" cy="21" r="3" fill="#b8fff4"/>
+    <text x="66" y="24" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">GlobeOSINT</text>
+    <text x="66" y="52" fill="#99f6e4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2">GEOSPATIAL EXPLORATION</text>
+  </g>
+  <text x="48" y="153" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Tools for discovering and understanding open-source information.</text>
+  <text x="48" y="190" fill="#99f6e4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1">MAPS  ·  DATA  ·  OSINT</text>
+  <path d="M670 184h34" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/><path d="m697 177 7 7-7 7" fill="none" stroke="#b8fff4" stroke-width="2"/>
+</svg>
