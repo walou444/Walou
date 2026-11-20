@@ -44,7 +44,7 @@
   <a href="https://github.com/Kloups-Dev/console-launcher"><img src="assets/project-console-launcher.svg" alt="Console Launcher — Rust and Qt/QML desktop software" width="48%"></a>
   <a href="https://kc.kloups.fr"><img src="assets/project-knowledge-core.svg" alt="Knowledge Core — knowledge management and RAG" width="48%"></a>
   <br>
-  <a href="https://geo.kloups.fr"><img src="assets/project-globeosint.svg" alt="GlobeOSINT — geospatial exploration and OSINT" width="48%"></a>
+  <a href="https://github.com/walou444/DroidSuit"><img src="assets/project-droidsuit.svg" alt="DroidSuit — private Android and iPhone workspace for Windows" width="48%"></a>
   <a href="https://kloups.fr"><img src="assets/project-kloups-studio.svg" alt="Kloups Studio — web design and development" width="48%"></a>
 </p>
 
